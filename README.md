@@ -3,8 +3,7 @@
 Collaborative MSc forestry project completed at the University of
 Göttingen in 2021.
 
-[View the forest management plan (PDF)](groner-holz-management-plan.pdf)
-
+[View the forest management plan (PDF)](FMP%20Outline%202020.pdf)
 ## Project overview
 
 This management plan was developed for Groner Holz Community Forest
